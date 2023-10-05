@@ -40,7 +40,7 @@ div {
     float:right;
     width: 100px;
     padding: 5px;
-    margin:0px 0px 0px;
+    margin:-3px -3px 0px;
     border:1px solid black;
     text-align: center;
     font-size: 125%;
@@ -52,7 +52,7 @@ div {
     float:right;
     width: 100px;
     padding: 5px;
-    margin: 0px 0px 0px;
+    margin: -3px -3px 0px;
     border:1px solid black;
     text-align: center;
     font-size: 125%;
@@ -67,7 +67,7 @@ div {
     float:right;
     width: 100px;
     padding: 5px;
-    margin: 0px 0px 0px;
+    margin: -3px -3px 0px;
     border:1px solid black;
     text-align: center;
     font-size: 125%;
